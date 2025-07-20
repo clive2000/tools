@@ -1,0 +1,28 @@
+{
+  "name": "hello-interview-crawler",
+  "version": "1.0.0",
+  "description": "A web crawler to scrape HelloInterview pages and generate PDFs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "example": "node example.js",
+    "cli": "node cli.js",
+    "dev": "node --watch index.js",
+    "install-browsers": "playwright install"
+  },
+  "keywords": [
+    "crawler",
+    "playwright",
+    "pdf",
+    "scraping"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^14.0.0",
+    "playwright": "^1.40.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.0"
+  }
+}

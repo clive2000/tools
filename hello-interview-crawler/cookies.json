@@ -1,0 +1,76 @@
+[
+  {
+    "name": "theme",
+    "value": "light",
+    "domain": "www.hellointerview.com",
+    "path": "/",
+    "expires": 1784555106.53508,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__stripe_mid",
+    "value": "fe06af30-ab50-4279-a81a-46c8a50b865d6904a0",
+    "domain": ".www.hellointerview.com",
+    "path": "/",
+    "expires": 1783353099,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "anonSessionId",
+    "value": "cd4r8ik3ras0i118h35fg17o-v4",
+    "domain": "www.hellointerview.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "hi.callback-url",
+    "value": "https%3A%2F%2Fwww.hellointerview.com",
+    "domain": "www.hellointerview.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "hi.csrf-token",
+    "value": "fffa0255999f9794f34ee683c240e7304188fffb4db250b0e8242a17c5e1faec%7C5f2d29677c30e1b363c740794648b49c79885a95c576fae8c7d94d8d79a9e971",
+    "domain": "www.hellointerview.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "AWSALB",
+    "value": "8B38fyok3fJjBqNT1kpjpggQYssgr6YkDYdXurVIW+taS/Uw3Jr+I0qlZ1Qgtt/6LhSUj1/Dxp6CWe4rtna4Y/y4smg/z78KekEDeUO44y2tnaxmzziX4pVClqX3",
+    "domain": "www.hellointerview.com",
+    "path": "/",
+    "expires": 1753624245.808637,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "AWSALBCORS",
+    "value": "8B38fyok3fJjBqNT1kpjpggQYssgr6YkDYdXurVIW+taS/Uw3Jr+I0qlZ1Qgtt/6LhSUj1/Dxp6CWe4rtna4Y/y4smg/z78KekEDeUO44y2tnaxmzziX4pVClqX3",
+    "domain": "www.hellointerview.com",
+    "path": "/",
+    "expires": 1753624245.80896,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "hi.session-token",
+    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..7nMGuMFyUm8dpgYJ.CDo_aZW3sZ79HVkBZ3RmixHU9FcR5Xn7mSKywGdJb6stJYLnjdNYenSEnTINlNVcTbxI4vwYhVcODpOWu2ceHKvITcCGMR9h22gkD-XpSoxyZ-mY1obXO4OvHhn14viPNk5ApsSy2MPCoq_6HpWWXnBE7ApXOHphFK1NNLgk0lS5nuWuRX5z8aDTjtffYtcGbctZfrTYw4l63bCuxQjSC2ukV6hFMQS05Q2u9YXUgndKH5StfbJLQpA5sZRGXvqZ.ahRIesx9QZykeoHb8dk-vg",
+    "domain": "www.hellointerview.com",
+    "path": "/",
+    "expires": 1755611445.80914,
+    "httpOnly": true,
+    "secure": true
+  }
+]
